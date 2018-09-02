@@ -1,8 +1,6 @@
 """Default homescreen
 
-This is the default homescreen for the Tilda Mk4.
-It gets automatically installed when a badge is
-newly activated or reset.
+This is the the oloicon homescreen.
 """
 
 ___name___         = "olicon"
